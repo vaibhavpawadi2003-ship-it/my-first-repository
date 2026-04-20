@@ -3,3 +3,5 @@ this line was replaced in feature 2
 this file was modified locally
 
 This lin was added in feature 2
+
+another modification
